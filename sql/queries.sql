@@ -1,6 +1,6 @@
 -- =====================================================
 -- Requêtes simples, jointures et recherches - Bibliothèque universitaire
--- Auteur: [Nom Étudiant]
+-- Auteur: IPSSI_WAYANS
 -- Date: 06/06/2025
 -- =====================================================
 
