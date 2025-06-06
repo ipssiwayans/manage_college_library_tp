@@ -1,6 +1,6 @@
 -- =====================================================
--- Contraintes avancées - Bibliothèque universitaire
--- Auteur: IPSSI_WAYANS
+-- Contraintes métier avancées - Bibliothèque universitaire
+-- Auteur: [Nom Étudiant]
 -- Date: 06/06/2025
 -- =====================================================
 
